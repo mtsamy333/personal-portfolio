@@ -1,0 +1,249 @@
+body {
+    background-image: url(../images/resume.jpg);
+    background-position: center top;
+    height: 1750px;
+    width: auto;
+  }  
+  .header {
+    background-color: #303b4c;
+    height: 259px;
+    margin-top: 20px;
+  }
+  .contacts {
+    background-color: #222a33; 
+    height: 60px;
+  }
+  .main-section {
+  background-color: white; 
+  height: 1330px;
+  padding: 10px;
+  }
+  .container {
+   width: 960px;
+   margin: 0 auto;
+  }
+  .fc-1 {
+   padding-right: 80px;
+  }
+  .fc-2 img {
+      padding-top: 10px;
+      border-radius: 50%;
+  }
+  .fc-1 h1 {
+  font-size: 55px;
+  color: white;
+  padding-top: 10px;
+  }
+  .fc-1 h4{
+     font-size: 30px;
+     color: #449399;
+     padding-top: 5px;
+     padding-bottom: 20px;
+  }
+  .fc-1 p {
+     color: white;
+     font-size: 25px;
+  }
+  .col-1{
+    width: 8.33%;
+  }
+  .col-2 {
+    width: 16.66%;
+  }
+  .col-3 {
+    width: 25%;
+  }
+  .col-4 {
+    width: 33.33%;
+  }
+  .col-5 {
+    width: 41.66%;
+  }
+  .col-6 {
+    width: 50%;
+  }
+  .col-7 {
+    width: 58.33%;
+  }
+  .col-8 {
+    width: 66.66%;
+  }
+  .col-9 {
+    width: 75%;
+  }
+  .col-10 {
+    width: 83.33%;
+  }
+  .col-11 {
+    width: 91.66%;
+  }
+  .col-12 {
+    width: 100%;
+  }
+  span {
+   padding-bottom: 10px;
+  }
+  .content-2 {
+  display: flex;
+  justify-content: center;
+  text-decoration: none;
+  padding: 5px;
+  }
+  .fc{
+  display: flex;
+  }
+  .space {
+  padding-bottom: 10px;
+  font-size: 20px;
+  }
+  .content-1 {
+  display: flex;
+  width: 90%;
+  padding: 5px;
+  justify-content: space-evenly;
+  }
+  a{
+  display: inline-block;
+  padding: 0 15px;
+  color: white;
+  font-size: 25px;
+  }
+  .content-section h2{
+  color: #50b9dd;
+  font-size: 28px;
+  text-decoration: underline;
+  padding-bottom: 5px;
+  padding-top: 10px;
+  font-weight: bold;
+  }
+  .content-type-1-section{
+  padding-top:15px;
+  padding-bottom: 20px;
+  }
+  .content-type-1-section h3 {
+  font-size: 30px;
+  font-weight: bold;
+  padding-bottom: 5px;
+  } 
+  .content-type-1-section p {
+  font-size: 25px; 
+   padding-bottom: 8px;
+  }
+  .col-48 {
+  width: 48%;
+  height: 700px;
+  justify-content: left;
+  /* padding-top: 10px; */
+  padding-right: 10px;
+  margin-right: 30px;
+  }
+  .content-type-1-section li {
+  font-size: 25px;
+  list-style: inside;
+  padding-top: 5px;
+  }
+  .sub-highlight-1-0 {
+  color: #78ceeb;
+  font-style: italic;
+  padding-right: 140px;
+  font-size: 20px;
+  }
+  .sub-highlight-1a {
+  color: #78ceeb;
+  font-style: italic;
+  padding-left: 185px; 
+  }
+  .sub-highlight-1b {
+  color: #78ceeb;
+  font-style: italic;
+  }
+  .sub-highlight-1c {
+  color: #78ceeb;
+  font-style: italic;
+  padding-left: 380px;
+  }
+  .sub-highlight-1d {
+  color: #78ceeb;
+  font-style: italic;
+  }
+  .sub-highlight-1e {
+  color: #78ceeb;
+  font-style: italic;
+  padding-left: 425px;
+  }
+  .sub-highlight-1f {
+  color: #78ceeb;
+  font-style: italic;
+  }
+  .sub-highlight-1g {
+  color: #78ceeb;
+  font-style: italic;
+  padding-left: 340px;
+  }
+  .sub-highlight-1h {
+  color: #78ceeb;
+  font-style: italic;
+  }
+  .sub-highlight-1i {
+  color: #78ceeb;
+  font-style: italic;
+  padding-left: 315px;
+  }
+  .sub-highlight-1 li {
+  font-size: 20px;
+  font-weight: bold;
+  }
+  .sub-highlight-1{
+  color: #78ceeb;
+  font-style: italic;
+  padding-top: 15px;
+  font-size: 20px;
+  }
+  .sub-highlight-1 li {
+  font-size: 30px;
+  font-weight: bold;
+  }
+  .sub-highlight-2 {
+  color: gray;
+  font-style: italic;
+  font-size: 25px;
+  }
+  .batch-1 li {
+  display: inline-block;
+  margin: 5px 15px 5px 5px;
+  border-radius: 5px;
+  border-style: solid;
+  background-color: #989da6;
+  color: white;
+  padding: 10px;
+  font-size: 25px;
+  
+  }
+  .batch-2 li {
+  display: inline-block;
+  margin: 5px;
+  border: 2px;
+  border-color: gray;
+  border-radius: 5px;
+  border-style: solid;
+  background-color: white;
+  color: black;
+  padding: 5px;
+  font-size: 25px;
+  }
+  img 
+  .list-3 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding-right: 10px;
+  padding-bottom: 15px;
+  font-size: 20px;
+  }
+  .fc-3 p{
+  font-size: 25px;
+  }
+  li {
+  font-size: 20px;
+  }
+  
